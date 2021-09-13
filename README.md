@@ -1,4 +1,4 @@
-# Smart-Lock
+# Alarm-clock
 The goal of this project is to implement a
 configurable digital clock on an FPGA. The main
 components of this project will be a Verilog module that
