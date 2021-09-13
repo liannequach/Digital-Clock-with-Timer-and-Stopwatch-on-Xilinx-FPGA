@@ -1,5 +1,5 @@
 # Alarm-clock
-The goal of this project is to implement a
+- The goal of this project is to implement a
 configurable digital clock on an FPGA. The main
 components of this project will be a Verilog module that
 will output to the board to show the time in either
@@ -9,3 +9,4 @@ the time on the board. Using the features of the FPGA,
 the clock will switch from standard to military time or
 vice versa, flash LEDs, set the time, and have stopwatch
 and timer functions.
+- Demo Video Link: https://www.youtube.com/watch?v=sMjWoCWEyUY
